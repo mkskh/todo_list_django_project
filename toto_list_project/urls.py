@@ -1,5 +1,5 @@
 """
-URL configuration for toto_list project.
+URL configuration for toto_list_project project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
