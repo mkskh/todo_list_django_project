@@ -1,5 +1,7 @@
 # todo_list_django_project
 
+Implemented class-based view
+
 ## How it looks like:
 
 ### Login page (from the start)
@@ -18,3 +20,4 @@ pass: test1234
 
 ### Edit page
 ![edit](./images/edit2.png)
+
