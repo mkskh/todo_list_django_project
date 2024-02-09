@@ -7,6 +7,7 @@ Implemented class-based view
 ### Login page (from the start)
 log: mks_kh
 pass: test1234
+
 ![login](./images/login2.png)
 
 ### Home page
