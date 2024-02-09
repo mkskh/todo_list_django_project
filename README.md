@@ -5,16 +5,16 @@
 ### Login page (from the start)
 log: mks_kh
 pass: test1234
-![login](./images/login.png)
+![login](./images/login2.png)
 
 ### Home page
-![home](./images/home.png)
+![home](./images/home2.png)
 
 ### View page
 ![view](./images/view.png)
 
 ### Create page
-![create](./images/create.png)
+![create](./images/create2.png)
 
 ### Edit page
-![edit](./images/edit.png)
+![edit](./images/edit2.png)
