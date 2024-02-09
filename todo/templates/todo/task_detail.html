@@ -1,1 +1,7 @@
-<h1>Task: {{task}}</h1>
+<h1>Task name: <br> {{task.title}}</h1>
+<p>Details: <br>{{task.description}}</p>
+<br>
+<p>Completed: {{task.complete}}</p>
+<p>{{task.created}}</p>
+
+<a href="{% url 'tasks' %}">Go Back</a>
