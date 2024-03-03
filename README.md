@@ -5,8 +5,13 @@ Implemented class-based view
 ## How it looks like:
 
 ### Login page (from the start)
+user1:
 log: mks_kh
 pass: test1234
+
+user2:
+alex
+@Test1234
 
 ![login](./images/login2.png)
 
