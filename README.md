@@ -11,7 +11,9 @@ pass: test1234
 
 user2:
 alex
-@Test1234
+@Test1234  
+
+You do not have access to notes until you log in or register and log in.  
 
 ![login](./images/login2.png)
 
