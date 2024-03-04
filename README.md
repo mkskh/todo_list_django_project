@@ -15,8 +15,16 @@ alex
 
 ![login](./images/login2.png)
 
+### Registration page
+![home](./images/register.png)
+
 ### Home page
 ![home](./images/home2.png)
+
+### Home page Another User  
+each user owns different notes  
+![home](./images/user2.png)
+
 
 ### View page
 ![view](./images/view.png)
